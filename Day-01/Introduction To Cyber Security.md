@@ -6,4 +6,6 @@ Cybersecurity is the practice of protecting computer systems, networks, programs
 - **Integrity**: It ensures data isn't tampered or corrupted by any unauthorized entity while data is in transit or idle. Example if a text file is stored in a system and some one changes the content without proper authorization then integrity is lost.
 - **Availability**: It guarantees that systems, services or data remain reliable or accessible whenever needed. If system is down due to a natural disaster, a power failure or DDOS attack then the availability is compromised or lost.
 
+## Roles in Cyber security
 
+The cybersecurity ecosystem features a diverse selection of job tracks. Finding the right fit depends entirely on how your mind works—whether you prefer building, breaking, defending, or investigating.
