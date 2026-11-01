@@ -9,3 +9,12 @@ Cybersecurity is the practice of protecting computer systems, networks, programs
 ## Roles in Cyber security
 
 The cybersecurity ecosystem features a diverse selection of job tracks. Finding the right fit depends entirely on how your mind works—whether you prefer building, breaking, defending, or investigating.
+
+### 1. The Defensive Track (Blue Team)
+
+These professionals are the guardians who monitor systems, detect anomalies, and repel attacks in real-time.
+
+- **SOC Analyst (Security Operations Center)**: They are the first line of defense. They monitor network traffic and security alerts to identify and flag active threats.
+- **Incident Response**: They are the digital fighters. When a breach occurs, they step in to contain the damage, eliminate the threat, and restore systems.
+- **Cloud Security Engineer**: Specilized people in securing cloud environments like AWS, Azure, and GCP as organizations migrate to the cloud.
+
