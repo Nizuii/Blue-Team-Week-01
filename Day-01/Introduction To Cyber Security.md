@@ -18,3 +18,11 @@ These professionals are the guardians who monitor systems, detect anomalies, and
 - **Incident Response**: They are the digital fighters. When a breach occurs, they step in to contain the damage, eliminate the threat, and restore systems.
 - **Cloud Security Engineer**: Specilized people in securing cloud environments like AWS, Azure, and GCP as organizations migrate to the cloud.
 
+### 2. The Offensive Track (Red Team)
+
+These professionals act like ethical hackers, actively testing defenses by trying to break into them before real cybercriminals do.
+
+- **Penetration Tester (Pen Tester)**: They conducts authorized, simulated attacks on web apps, networks, and systems to find exploitable security flaws.
+- **Bug Bounty Hunter**: Independent or freelance security researchers who search for software vulnerabilities and get paid per confirmed defect discovered.
+
+### 3. The Engineering & Architecture Track (Builders)
